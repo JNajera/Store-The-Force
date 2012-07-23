@@ -1,0 +1,18 @@
+Store the force
+=================================
+
+This project connect to SalesForce.com and download its data to store it on the internal sqlite DB from the mobile device.(Android in this case)
+
+It was develop on with Appcelerator Titanium Mobile Project.
+
+Requires Titanium Mobile SDK 1.8.0+
+
+----------------------------------
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2012 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
